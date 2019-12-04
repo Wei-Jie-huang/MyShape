@@ -1,3 +1,5 @@
+```java
+
 interface Shape{
   double getArea();
 }
@@ -45,3 +47,5 @@ class MyShape{
     System.out.println(triangle.toString());
   }
 }
+
+```
